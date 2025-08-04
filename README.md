@@ -20,9 +20,8 @@ Each song is represented as a node. You can add songs, play them, skip to the ne
 1\. Open the project in Visual Studio or any C++ IDE  
 2\. Compile and run "music_player.cpp" or "main.cpp" 
 3\. Use the terminal interface to manage your playlist
-
 If it runs without errors, congrats!  
-If it crashes... well, debugging is part of the fun.
+If it crashes.. well, debugging is part of the fun.
 
 ## Future Plans
 
