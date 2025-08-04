@@ -2,7 +2,7 @@
 
 ![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B)
 ![Structure](https://img.shields.io/badge/Data_Structure-Linked_List-orange)
-![Status](https://img.shields.io/badge/Project-In_Progress-yellow)
+![Status](https://img.shields.io/badge/Project-In_Progress-yellow) 
 
 A simple terminal based music player built in C++ using a  linked list.  
 Each song is represented as a node. You can add songs, play them, skip to the next, or delete them all from the console.
