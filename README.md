@@ -33,7 +33,6 @@ If it crashes.. well, debugging is part of the fun.
 Created by ~Wafaa~
 
 ## Vibes
-![Coding Sticker](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdhZmpiM215M2tkYWc0Y2toY2ZrdjFhdG1hb3pjYzd0M2d6YXNrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MEFr3dVUpNCWCdn1M0/giphy.gif)
-![Music Sticker](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5Z3ZmNXRxOWp5NmV2ZHZkczFubjIwZXR2eWl6N3hxbHRtaTl4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOfwtFobGCLJBU3DNn/giphy.gif) 
+![Coding Sticker](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdhZmpiM215M2tkYWc0Y2toY2ZrdjFhdG1hb3pjYzd0M2d6YXNrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MEFr3dVUpNCWCdn1M0/giphy.gif) ![Music Sticker](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5Z3ZmNXRxOWp5NmV2ZHZkczFubjIwZXR2eWl6N3hxbHRtaTl4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cOfwtFobGCLJBU3DNn/giphy.gif) 
 
 
